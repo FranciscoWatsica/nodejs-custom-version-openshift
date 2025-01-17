@@ -77,4 +77,4 @@ That's it, you can now checkout your application at:
     http://palinode-$yournamespace.rhcloud.com
     ( See env @ http://palinode-$yournamespace.rhcloud.com/env )
 
-                                      
+                                       
